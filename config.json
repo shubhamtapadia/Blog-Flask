@@ -15,8 +15,8 @@
         "no_of_posts": 3,
         "post_image":"about-bg.jpg",
         "login_image":"login.svg",
-        "admin_user":"Shivaay",
-        "admin_password": "pass@1234",
+        "admin_user":"",
+        "admin_password": "",
         "blog_name": "World of Word",
         "uplode_location": "C:\\Users\\91840\\Test1\\static\\img"
 
